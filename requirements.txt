@@ -1,0 +1,9 @@
+selenium==4.21.0
+webdriver-manager==4.0.1
+Faker==27.0.0
+
+
+
+
+
+
